@@ -4,8 +4,8 @@ import { test, expect } from '@playwright/test';
 // Login Test Data
 // ─────────────────────────────────────────────
 const loginData = {
-    user: 'anuradha.learn@gmail.com',
-    password: 'Play@1234#$',
+    user: 'smartscott82@yahoo.com',
+    password: 'Earth*1978',
     baseUrl: 'https://qa-cart.com/',
 };
 

@@ -1,0 +1,11 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+#Environment and auth
+.env
+auth/storageState.json
+
+#Backup files
+playwright.config.original.ts

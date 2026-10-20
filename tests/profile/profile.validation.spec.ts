@@ -5,14 +5,14 @@ import { test, expect } from '@playwright/test';
 // ============================================================
 
 const loginData = {
-  user: 'anuradha.learn@gmail.com',
-  password: 'Play@1234#$',
-  baseUrl: 'https://qa-cart.com/',
+  user: 'smartscott82@yahoo.com',
+  password: 'Earth*1978',
+  baseUrl: 'https://qa-cart.com/'
 };
 
 const billingAddress = {
-  firstName: 'Anuradha',
-  lastName: 'Agarwal',
+  firstName: 'Scott',
+  lastName: 'Griffin',
   street: '123 Test Street',
   city: 'Dubai',
   country: 'AE',
